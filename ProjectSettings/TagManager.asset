@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - EndObject
+  - pipe
   layers:
   - Default
   - TransparentFX
