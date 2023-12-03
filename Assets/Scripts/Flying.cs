@@ -27,4 +27,11 @@ public class Flying : MonoBehaviour
         direction.y += gravity * Time.deltaTime;
         transform.position += direction * Time.deltaTime;
     }
+
+        private void OnTriggerEnter2D(Collider2D other){
+        if (other.gameObject.tag == "EndObject"){
+            FindObjectOfType<GameManager>().GameOver();
+        }
+    }
 }
+

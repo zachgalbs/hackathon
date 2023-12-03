@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3421f0aba9d2c4f1598f3b16fa6c5a6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - playButton: {fileID: 4558886682805187192, guid: 9bc934e60b85d4b168c9ee3ba666dc40, type: 3}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
